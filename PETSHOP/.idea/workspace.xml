@@ -125,25 +125,38 @@
       <workItem from="1602473341065" duration="23000" />
       <workItem from="1606457224037" duration="1335000" />
       <workItem from="1606458593221" duration="2000" />
+      <workItem from="1606458762481" duration="344000" />
     </task>
+    <task id="LOCAL-00001" summary="福星Pet">
+      <created>1606459089718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606459089718</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="福星Pet" />
+    <option name="LAST_COMMIT_MESSAGE" value="福星Pet" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="45" key="#Project_Structure" timestamp="1599470071158">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="45" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1599470071158" />
-    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1599699323921">
+    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1606459167870">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1599699323921" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1606458047381">
+    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1606459167870" />
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1606459224953">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1606458047381" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1606459224953" />
     <state width="447" height="447" key="DebuggerActiveHint" timestamp="1599549018857">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -200,6 +213,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="375" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1606457223802" />
+    <state x="477" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606459203272">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="477" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1606459203272" />
     <state x="413" y="143" width="540" height="462" key="extract.method.dialog" timestamp="1599536448550">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

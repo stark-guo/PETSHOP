@@ -93,4 +93,9 @@ public class Account implements Serializable,Comparable {
                 ", dealTime='" + dealTime + '\'' +
                 '}';
     }
+
+    @Override
+    public int compareTo(Object o) {
+        return 0;
+    }
 }
