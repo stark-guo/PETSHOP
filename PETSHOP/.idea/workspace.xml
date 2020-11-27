@@ -126,6 +126,7 @@
       <workItem from="1606457224037" duration="1335000" />
       <workItem from="1606458593221" duration="2000" />
       <workItem from="1606458762481" duration="344000" />
+      <workItem from="1606459348229" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="福星Pet">
       <created>1606459089718</created>
@@ -134,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606459089718</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="福星Pet">
+      <created>1606459366996</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606459366996</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,10 +161,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1606459167870" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1606459224953">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1606459683164">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1606459224953" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1606459683164" />
     <state width="447" height="447" key="DebuggerActiveHint" timestamp="1599549018857">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -205,6 +213,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1606458481658" />
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2" timestamp="1606459701179">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1606459701179" />
     <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1606458567251">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
