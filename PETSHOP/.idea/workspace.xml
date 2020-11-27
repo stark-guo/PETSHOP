@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="991e3259-73e8-4f61-bacb-df9af111357a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/Program Files/gitrepository" />
+  </component>
+  <component name="ProjectId" id="1hB264BHbtBg6yTPBu4lP1VsoJ2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/petshop" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java培训\PETSHOP\petshop\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="petshop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.MainTest" />
+      <module name="petshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.MainTest" />
+      <module name="petshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Test" />
+      <module name="petshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.MainTest (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="991e3259-73e8-4f61-bacb-df9af111357a" name="Default Changelist" comment="" />
+      <created>1599469985858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599469985858</updated>
+      <workItem from="1599469988527" duration="5321000" />
+      <workItem from="1599525458311" duration="33806000" />
+      <workItem from="1599611340901" duration="59137000" />
+      <workItem from="1599786795467" duration="10576000" />
+      <workItem from="1599956825523" duration="9417000" />
+      <workItem from="1599971942392" duration="1051000" />
+      <workItem from="1600047816575" duration="612000" />
+      <workItem from="1602378122237" duration="837000" />
+      <workItem from="1602473341065" duration="23000" />
+      <workItem from="1606457224037" duration="1335000" />
+      <workItem from="1606458593221" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="45" key="#Project_Structure" timestamp="1599470071158">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="45" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1599470071158" />
+    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1599699323921">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1599699323921" />
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1606458047381">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1606458047381" />
+    <state width="447" height="447" key="DebuggerActiveHint" timestamp="1599549018857">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="447" height="447" key="DebuggerActiveHint/0.0.1366.768@0.0.1366.768" timestamp="1599549018857" />
+    <state x="463" y="142" key="FileChooserDialogImpl" timestamp="1606457952862">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="142" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1606457952862" />
+    <state width="1323" height="198" key="GridCell.Tab.0.bottom" timestamp="1599971666560">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1599971666560" />
+    <state width="1323" height="198" key="GridCell.Tab.0.center" timestamp="1599971666559">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1599971666559" />
+    <state width="1323" height="198" key="GridCell.Tab.0.left" timestamp="1599971666559">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1599971666559" />
+    <state width="1323" height="198" key="GridCell.Tab.0.right" timestamp="1599971666559">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1599971666559" />
+    <state width="1323" height="198" key="GridCell.Tab.1.bottom" timestamp="1599971666560">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1599971666560" />
+    <state width="1323" height="198" key="GridCell.Tab.1.center" timestamp="1599971666560">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1599971666560" />
+    <state width="1323" height="198" key="GridCell.Tab.1.left" timestamp="1599971666560">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1599971666560" />
+    <state width="1323" height="198" key="GridCell.Tab.1.right" timestamp="1599971666560">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1599971666560" />
+    <state x="505" y="321" key="ReplaceDuplicatesPrompt" timestamp="1599536456729">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="505" y="321" key="ReplaceDuplicatesPrompt/0.0.1366.768@0.0.1366.768" timestamp="1599536456729" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1606458481658">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1606458481658" />
+    <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1606458567251">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1606458567251" />
+    <state x="375" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1606457223802">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="375" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1606457223802" />
+    <state x="413" y="143" width="540" height="462" key="extract.method.dialog" timestamp="1599536448550">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="143" width="540" height="462" key="extract.method.dialog/0.0.1366.768@0.0.1366.768" timestamp="1599536448550" />
+    <state x="58" y="0" key="new project wizard" timestamp="1599470067864">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="58" y="0" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1599470067864" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1599652105166">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1599652105166" />
+  </component>
+</project>
